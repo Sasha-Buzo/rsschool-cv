@@ -4,9 +4,12 @@
 # ALIAKSANDRA
 
 ### GET IN CONTACT
-* Phone : 123-456-7890
-* Email: aliaksandra.buzo@gmail.com
-* Skype: sasha_buzo
+
+Phone : 123-456-7890
+
+Email: aliaksandra.buzo@gmail.com
+
+Skype: sasha_buzo
 
 ### SUMMARY
 
@@ -31,7 +34,7 @@
 
 ### WORK EXPERIENCE
 
-* March 2015 - Present
+March 2015 - Present
 
 
 ### EDUCATION AND TRAINING
