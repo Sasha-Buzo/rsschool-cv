@@ -1,14 +1,14 @@
 QA ENGINEER
   
-BUZO
-ALIAKSANDRA
+# BUZO
+# ALIAKSANDRA
 
-GET IN CONTACT
+## GET IN CONTACT
 Phone : 123-456-7890
 Email: aliaksandra.buzo@gmail.com
 Skype: sasha_buzo
 
-SUMMARY
+## SUMMARY
 
 · 5+ years of experience in testing Web and Mobile applications
 · Extensive testing experience in projects with Agile methodology
@@ -19,7 +19,7 @@ SUMMARY
 · Excellent team-worker, enjoy working as a member of a result-driven team
 
 
-SKILLS
+## SKILLS
 
 English Proficiency: Intermediate +
 Test Management Systems: TestLink
@@ -29,12 +29,12 @@ Testing Tools: Postman, SoapUI, Selenium IDE
 Programming languages: HTML,CSS, Java Script (basic knowledge)
 
 
-WORK EXPERIENCE
+## WORK EXPERIENCE
 
 March 2015 - Present
 
 
-EDUCATION AND TRAINING
+## EDUCATION AND TRAINING
 
 2020  JavaScript/Front-end - The Rolling Scopes school
 
