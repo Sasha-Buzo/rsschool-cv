@@ -39,10 +39,10 @@ March 2015 - Present
 2020  JavaScript/Front-end - The Rolling Scopes school
 
 2020  Test Managers School - Quality Lab.ru
-      Electronic certificate
+      [Electronic certificate](https://quality-lab.ru/school-center/certificate.php?id=21624&lang=en)
 
 2019  REST API testing - Software-Testing.ru
-      Electronic certificate
+      [Electronic certificate](http://cert.software-testing.ru/243671525871321611)
 
 2017 Belarusian State University
      School of Business and Management of Technology,logistics department
