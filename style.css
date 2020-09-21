@@ -1,11 +1,54 @@
-.img {float:left; margin: 100px 50px 50px 100px;}
-.heading1 {color:#FFFAFA; font:normal normal 45px/20px Tahoma;}
-.heading2 {padding: 100px 20px 20px 50px; color:#FFFAFA; font:normal normal 24px/20px Tahoma;}
-.heading3 {color:#000000; font:normal bold 24px/30px Tahoma; text-align: left; text-decoration:overline; margin-top: 40px; margin-bottom:15px; clear:left;}
-.heading4 {color:#000000; font:normal bold 24px/30px Tahoma; text-align: left;}
-.heder{background-color:#4169E1; height:300px;}
-.getincontact{color:#000000; font:normal normal 20px/6px Arial; padding: 0px 20px 0px 100px;}
-.summary{color:#000000; font:normal normal 20px/30px Arial; padding: 0px 20px 0px 100px;}
-.skills{color:#000000; font:normal normal 20px/30px Arial; padding: 0px 20px 0px 100px;}
-.workexperience{color:#000000; font:normal normal 20px/30px Arial; padding: 0px 20px 0px 100px;}
-.education{color:#000000; font:normal normal 20px/30px Arial; padding: 0px 20px 0px 100px;}
+/* COMMON STYLES */
+
+body {
+    margin: 0;
+}
+
+.heading1 {
+    color: #FFFAFA;
+    font: normal normal 45px/20px Tahoma;
+}
+
+.heading2 {
+    color: #FFFAFA;
+    padding: 100px 20px 20px 50px;
+    font: normal normal 24px/20px Tahoma;
+}
+
+.heading3 {
+    font: normal bold 24px/30px Tahoma;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+
+/* CV PAGE STYLES */
+
+.cv-photo {
+    float: left;
+    margin: 100px 50px 50px 100px;
+    height: 362px;
+}
+
+.cv-header {
+    background-color: #4169E1;
+    height: 300px;
+}
+
+.cv-header .heading3 {
+    margin-top: 90px;
+}
+
+.cv-main {
+    clear: both;
+}
+
+.cv-main .heading3 {
+    text-decoration: overline;
+}
+
+.cv-block {
+    color: #000;
+    font: normal normal 20px/30px Arial;
+    padding: 0 20px 0 100px;
+}
